@@ -10,7 +10,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoMove.Services", "GoMove.S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoMove.Repositories", "GoMove.Repositories\GoMove.Repositories.csproj", "{0A394855-DFEF-470E-91C8-6BC0911EDB75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoMove.API", "GoMove.API\GoMove.API.csproj", "{FF95A246-0EB6-4490-89ED-4F9BA6F6A53E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoMove.API", "GoMove.API\GoMove.API.csproj", "{9EABD7A1-C473-4125-898B-63934B13468F}"
 	ProjectSection(ProjectDependencies) = postProject
 		{63CB32EB-F597-4A43-9E1D-CDBA10A39181} = {63CB32EB-F597-4A43-9E1D-CDBA10A39181}
 	EndProjectSection
@@ -29,10 +29,10 @@ Global
 		{0A394855-DFEF-470E-91C8-6BC0911EDB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A394855-DFEF-470E-91C8-6BC0911EDB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A394855-DFEF-470E-91C8-6BC0911EDB75}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FF95A246-0EB6-4490-89ED-4F9BA6F6A53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF95A246-0EB6-4490-89ED-4F9BA6F6A53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF95A246-0EB6-4490-89ED-4F9BA6F6A53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF95A246-0EB6-4490-89ED-4F9BA6F6A53E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EABD7A1-C473-4125-898B-63934B13468F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EABD7A1-C473-4125-898B-63934B13468F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EABD7A1-C473-4125-898B-63934B13468F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EABD7A1-C473-4125-898B-63934B13468F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
